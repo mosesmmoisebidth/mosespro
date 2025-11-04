@@ -202,8 +202,10 @@ const PortfolioShowcase = () => {
               <span className="text-white">PORTFOLIO</span>
             </div>
             <div className="hidden md:flex items-center space-x-12">
-              <a href="https://moses.it.com" className="text-xs tracking-widest uppercase text-white/40 hover:text-white transition-colors duration-300">Home</a>
-              <a href="https://blog.moses.it.com" className="text-xs tracking-widest uppercase text-white/40 hover:text-white transition-colors duration-300">Blog</a>
+              <a href="https://mosesmmoisebidth.github.io/mosesp/" className="text-xs tracking-widest uppercase text-white/40 hover:text-white transition-colors duration-300">Home</a>
+              {/* <a href="https://moses.it.com" className="text-xs tracking-widest uppercase text-white/40 hover:text-white transition-colors duration-300">Home</a> */}
+              <a href="https://mosesmmoisebidth.github.io/mosesblo/" className="text-xs tracking-widest uppercase text-white/40 hover:text-white transition-colors duration-300">Blog</a>
+              {/* <a href="https://blog.moses.it.com" className="text-xs tracking-widest uppercase text-white/40 hover:text-white transition-colors duration-300">Blog</a> */}
               <a href="mailto:intambwefit@moses.it.com" className="text-xs tracking-widest uppercase border border-white/20 hover:border-white/40 px-6 py-3 transition-all duration-300">
                 Contact
               </a>
